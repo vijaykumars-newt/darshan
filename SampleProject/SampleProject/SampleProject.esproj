@@ -6,10 +6,10 @@
     <SccLocalPath>SAK</SccLocalPath>
   </PropertyGroup>
   <PropertyGroup>
-    <!-- Command to run on project build -->
+    <!-- Command to run on project build New -->
     <BuildCommand>
     </BuildCommand>
-    <!-- Command to run on project clean -->
+    <!-- Command to run on project clean New -->
     <CleanCommand>
     </CleanCommand>
   </PropertyGroup>
